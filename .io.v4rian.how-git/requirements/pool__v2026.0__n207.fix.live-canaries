@@ -1,0 +1,1 @@
+The three live GitHub canaries (verify-template, off-grid e2e, parallel-PR auto-heal) pass against a throwaway seeded from dev under the current gates: root layout, mapped commit identity and off-grid MODE.
